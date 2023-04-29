@@ -14,4 +14,4 @@ Q. Can we concretely calculate the diameter of the given $\ell$-isogeny graph?
 
 ## References
 + [velu's formula](https://aghitza.github.io/pdf/other/velu.pdf)
-+ [$\surd$elu's formula](https://eprint.iacr.org/2020/1109.pdf)
++ [Square-root velu's formula](https://eprint.iacr.org/2020/1109.pdf)
